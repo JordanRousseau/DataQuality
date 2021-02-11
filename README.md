@@ -10,7 +10,7 @@ Afin de réaliser un travail collaboratif entre les différents membre du groupe
 La première chose à faire, fut donc d'associer notre Colab à un répertoire Google Drive dans lequel est stocké le fichier de référence.
 Puis d'importer le dit fichier dans l'instance Colab.
 
-Dans le but de trouver laquelle des capitale correspond aux données de `Climate.xlsx`, nous avons commencé par mettre en forme et analysé le données contenues dansce derniers. Ceci, pour pouvoir nous basé uniquement sur les données pertinentes, de qualitées et obtenir les référence nécessaire pour la comparaison.
+Dans le but de trouver laquelle des capitale correspond aux données de `Climat.xlsx`, nous avons commencé par mettre en forme et analysé le données contenues dansce derniers. Ceci, pour pouvoir nous basé uniquement sur les données pertinentes, de qualitées et obtenir les référence nécessaire pour la comparaison.
 
 Pour cela nous avons :
 
@@ -36,7 +36,7 @@ Pour cela nous avons :
 
 ![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367102477303868/unknown.png)
 
-Une fois l'analyse des données de `Climate.xlsx` réalisée, nous avons commencé par importé le fichier `ClimateSI.xlsx`.
+Une fois l'analyse des données de `Climat_corr.xlsx` réalisée, nous nous somme intéressé à la partie erreurs du fichier.
 
 Tout fois, ce fichie contenenait de nombreuses erreurs que nous avons dû corrigées.
 
