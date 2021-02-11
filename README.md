@@ -28,10 +28,22 @@ Pour cela nous avons :
 
 7 - Calul du min par ans
 
-8 - Création de graphiques des variations températures min/max au cours du mois par mois
+8 - Évolution de la température pour tout les mois de l'année
 
-Exemple pour le mois de Janvier :
+![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367259268513842/unknown.png)
 
-![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809356082346328095/unknown.png)
+9 - Création de graphiques des variations températures min/max au cours du mois par mois
 
+![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367102477303868/unknown.png)
 
+Une fois l'analyse des données de `Savukoskikirkonkyla.xlsx` réalisée, nous avons commencé par importé le fichier `Climate.xlsx`.
+
+Tout fois, ce fichie contenenait de nombreuses erreurs que nous avons dû corrigées.
+
+On obtiens le graphique suivant avant correction des erreurs:
+
+![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367391162597376/unknown.png)
+
+Et celui-ci après correction :
+
+![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367542907928646/unknown.png)
