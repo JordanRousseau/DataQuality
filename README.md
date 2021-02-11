@@ -10,7 +10,7 @@ Afin de réaliser un travail collaboratif entre les différents membre du groupe
 
 La première chose à faire, fut donc d'importer le dit fichier dans l'instance Colab.
 
-Dans le but de trouver laquelle des capitale correspond aux données de `Climat.xlsx`, nous avons commencé par mettre en forme et analysé le données contenues dansce derniers. Ceci, pour pouvoir nous basé uniquement sur les données pertinentes, de qualitées et obtenir les référence nécessaire pour la comparaison.
+Dans le but de trouver laquelle des capitale correspond aux données de `Climat.xlsx`, nous avons commencé par mettre en forme et analysé les données contenues dans ce dernier. Ceci, pour pouvoir nous basé uniquement sur les données pertinentes, de qualitées et obtenir les référence nécessaire pour la comparaison.
 
 Pour cela nous avons :
 
@@ -34,9 +34,9 @@ Pour cela nous avons :
 
 Une fois l'analyse des données de `Climat_corr.xlsx` réalisée, nous nous sommes intéressés à la partie erreurs du fichier.
 
-Ce fichier contenenait de nombreuses erreurs que nous avons dû corrigées.
+Ce fichier contenait de nombreuses erreurs que nous avons dû corriger.
 
-On obtiens le graphique suivant avant correction des erreurs:
+On obtient le graphique suivant avant correction des erreurs:
 
 ![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367391162597376/unknown.png)
 
@@ -45,7 +45,7 @@ Et celui-ci après correction :
 ![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367542907928646/unknown.png)
 
 
-Maintenant que nous avons corrigé et obtenu les différentes informations requises. Nous allons comparé maintenant les informations de `Climat_corr.xlsx` &
+Maintenant que nous avons corrigé et obtenu les différentes informations requises, nous allons comparé les informations de `Climat_corr.xlsx` &
 `Savukoskikirkonkyla.xlsx`
 
 Voici le graphique des données de `Savukoskikirkonkyla.xlsx`:
@@ -54,9 +54,9 @@ Voici le graphique des données de `Savukoskikirkonkyla.xlsx`:
 
 Au vue des ressemblances entre les deux fichiers, on peut en déduire qu'il s'agit d'une ville du Nord-Est de l'Europe.
 
-Pour commencer à localiser l'emplacement possible de ces données, nous avons récupéré les données météo depuis kaggle sur les capital nordique suivantes : Moscou, Oslo, Helsinki & Prague. Pour affiner l'identification des données, nous allons calculer les moyennes de chaque mois. Cela nous permettra de trouver quelle ville ce rapprochera techniquement le plus de notre capital inconnue. Au vue des résultats suivants, nous pouvons définir que pour l'instant, la ville de Moscou ressort en majorité.
+Pour commencer à localiser l'emplacement possible de ces données, nous avons récupéré les données météo depuis kaggle sur les capitales nordiques suivantes : Moscou, Oslo, Helsinki & Prague. Pour affiner l'identification des données, nous avons calculé les moyennes de chaque mois. Cela nous a permis de trouver quelle ville ce rapproche techniquement le plus de notre capitale inconnue. Au vue des résultats suivants, nous pouvons définir que pour l'instant, la ville de Moscou ressort en majorité.
 
-Pour affiner la recherche, nous avons ensuite comparer les différents écarts-types de chaque mois pour la vérification de notre prédiction. Avec cette méthode, notre zone géographique ce rapproche plus de Helsinki. Nous pouvons donc actuellement imaginer une possible zone géographique entre Moscou et Helsinki
+Pour affiner la recherche, nous avons ensuite comparé les différents écarts-types de chaque mois pour la vérification de notre prédiction. Avec cette méthode, notre zone géographique ce rapproche plus de Helsinki. Nous pouvons donc actuellement imaginer une possible zone géographique entre Moscou et Helsinki
 
 Nous n'avons pas suffisament de données actuellement pour définir précisement la capital.
 
