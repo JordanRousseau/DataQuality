@@ -16,29 +16,25 @@ Pour cela nous avons :
 
 1 - Vérifier que l'import du fichier, ce soit bien effectué
 
-2 - Suppression des colonne `Time` & `Time zone` que nous avons jugées impertinantes pour atteindre notre objectif.
+2 - Calul du max par mois
 
-3 - Regroupement des données par mois et calcul de la moyenne et de l'écart-type (ceci nous servira plus tard)
+3 - Calul du min par mois
 
-4 - Calul du max par mois
+4 - Calul du max par ans
 
-5 - Calul du min par mois
+5 - Calul du min par ans
 
-6 - Calul du max par ans
-
-7 - Calul du min par ans
-
-8 - Évolution de la température pour tout les mois de l'année
+6 - Évolution de la température pour tout les mois de l'année
 
 ![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367259268513842/unknown.png)
 
-9 - Création du graphique des variations températures min/max au cours du mois par mois
+7 - Création du graphique des variations températures min/max au cours du mois par mois
 
 ![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367102477303868/unknown.png)
 
 Une fois l'analyse des données de `Climat_corr.xlsx` réalisée, nous nous somme intéressé à la partie erreurs du fichier.
 
-Tout fois, ce fichie contenenait de nombreuses erreurs que nous avons dû corrigées.
+Tout fois, ce fichier contenenait de nombreuses erreurs que nous avons dû corrigées.
 
 On obtiens le graphique suivant avant correction des erreurs:
 
@@ -47,3 +43,14 @@ On obtiens le graphique suivant avant correction des erreurs:
 Et celui-ci après correction :
 
 ![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367542907928646/unknown.png)
+
+
+Maintenant que nous avons corrigé et obtenu les différentes informations requises. Nous allons comparons maintenant les informations de `Climat_corr.xlsx` &
+`Savukoskikirkonkyla.xlsx`
+
+Voici le graphiques des données de `Savukoskikirkonkyla.xlsx`:
+
+![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809369213646667776/unknown.png)
+
+Au vue des ressemble entre les deux fichiers, on peut en déduire qu'il s'agit d'une ville du Nord de l'Europe.
+
