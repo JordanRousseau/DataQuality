@@ -32,7 +32,7 @@ Pour cela nous avons :
 
 ![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367259268513842/unknown.png)
 
-9 - Création de graphiques des variations températures min/max au cours du mois par mois
+9 - Création du graphique des variations températures min/max au cours du mois par mois
 
 ![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809367102477303868/unknown.png)
 
