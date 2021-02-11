@@ -56,7 +56,7 @@ Au vue des ressemblances entre les deux fichiers, on peut en déduire qu'il s'ag
 
 Pour commencer à localiser l'emplacement possible de ces données, nous avons récupéré les données météo depuis kaggle sur les capitales nordiques suivantes : Moscou, Oslo, Helsinki & Prague. Pour affiner l'identification des données, nous avons calculé les moyennes de chaque mois. Cela nous a permis de trouver quelle ville ce rapproche techniquement le plus de notre capitale inconnue. Au vue des résultats suivants, nous pouvons définir que pour l'instant, la ville de Moscou ressort en majorité.
 
-Pour affiner la recherche, nous avons ensuite comparé les différents écarts-types de chaque mois pour la vérification de notre prédiction. Avec cette méthode, notre zone géographique ce rapproche plus de Helsinki. Nous pouvons donc actuellement imaginer une possible zone géographique entre Moscou et Helsinki
+Pour affiner la recherche, nous avons ensuite comparé les différents écarts-types de chaque mois pour la vérification de notre prédiction. Avec cette méthode, notre zone géographique ce rapproche plus d'Helsinki. Nous pouvons donc actuellement imaginer une possible zone géographique entre Moscou et Helsinki
 
 Nous n'avons pas suffisament de données actuellement pour définir précisement la capital.
 
