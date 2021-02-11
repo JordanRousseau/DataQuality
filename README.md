@@ -54,14 +54,9 @@ Voici le graphique des données de `Savukoskikirkonkyla.xlsx`:
 
 Au vue des ressemblances entre les deux fichiers, on peut en déduire qu'il s'agit d'une ville du Nord-Est de l'Europe.
 
-Nous avons donc récupéré les données météo de 4 Capitale du Nord-Est : Prague, Oslo, Helsinki et Moscou 
-Nous avons ensuite employé 2 méthodes pour trouver laquelle de ces dernières pourrait correspondre.
+Pour commencer à localiser l'emplacement possible de ces données, nous avons récupéré les données météo depuis kaggle sur les capital nordique suivantes : Moscou, Oslo, Helsinki & Prague. Pour affiner l'identification des données, nous allons calculer les moyennes de chaque mois. Cela nous permettra de trouver quelle ville ce rapprochera techniquement le plus de notre capital inconnue. Au vue des résultats suivants, nous pouvons définir que pour l'instant, la ville de Moscou ressort en majorité.
 
-1 - Comparaison des moyen de température
+Pour affiner la recherche, nous avons ensuite comparer les différents écarts-types de chaque mois pour la vérification de notre prédiction. Avec cette méthode, notre zone géographique ce rapproche plus de Helsinki. Nous pouvons donc actuellement imaginer une possible zone géographique entre Moscou et Helsinki
 
-
-2 - Comparaison des différence d'écart-type
-
-
-On peut donc en déduire qu'il s'agit de pronbablement de Moscou ou Helsinki. Cependant les données ne sont pas suffisante pour déterminé précisément la ville
+Nous n'avons pas suffisament de données actuellement pour définir précisement la capital.
 
