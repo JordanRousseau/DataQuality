@@ -52,5 +52,16 @@ Voici le graphique des données de `Savukoskikirkonkyla.xlsx`:
 
 ![alt text](https://cdn.discordapp.com/attachments/689812910494711905/809369213646667776/unknown.png)
 
-Au vue des ressemblances entre les deux fichiers, on peut en déduire qu'il s'agit d'une ville du Nord de l'Europe.
+Au vue des ressemblances entre les deux fichiers, on peut en déduire qu'il s'agit d'une ville du Nord-Est de l'Europe.
+
+Nous avons donc récupéré les données météo de 4 Capitale du Nord-Est : Prague, Oslo, Helsinki et Moscou 
+Nous avons ensuite employé 2 méthodes pour trouver laquelle de ces dernières pourrait correspondre.
+
+1 - Comparaison des moyen de température
+
+
+2 - Comparaison des différence d'écart-type
+
+
+On peut donc en déduire qu'il s'agit de pronbablement de Moscou ou Helsinki. Cependant les données ne sont pas suffisante pour déterminé précisément la ville
 
